@@ -1,0 +1,6 @@
+{
+    "name": "SpoilerFree",
+    "version": "0.0.1",
+    "description": "Chrome extension to detect and hide spoilers for your favorite things",
+    "manifest_version": 1
+}
